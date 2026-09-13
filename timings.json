@@ -120,13 +120,14 @@
           "name_ur": "جامع مسجد یحییٰ المدنی",
           "name_en": "Jamia Masjid Yahya al-Madni",
           "fajr": null,
+          "fajr_offset_minutes": 12,
           "zuhr": "14:15",
           "asr": "17:40",
           "isha": "21:00",
           "jumma": "14:00",
           "verified": "2026-09-13",
           "notes": {
-            "fajr": "board prints '12 MINTS' (12 minutes after azan), not a fixed time"
+            "fajr": "board prints '12 MINTS' (12 minutes after azan) — rendered as header azan + 12, see web/src/lib/board.ts"
           },
           "lat": 24.8768,
           "lng": 67.07216
