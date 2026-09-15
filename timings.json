@@ -1,7 +1,7 @@
 {
   "sample": false,
   "unverified": false,
-  "source": "BJNT board 2026-09-15 — 16 cell(s) changed vs 345; unchanged cells carried forward; corrected from the photo via gemini_read.py: #36 asr, #60 fajr",
+  "source": "BJNT board 2026-09-15 — 16 cell(s) changed vs 345; unchanged cells carried forward; corrected from the photo via gemini_read.py: #36 asr, #60 fajr; corrected from the photo via gemini_read.py: #15 fajr, #36 asr, #60 fajr",
   "board_date": "2026-09-15",
   "hijri": "3 Rabi ul Awwal 1448",
   "method": {
@@ -214,7 +214,7 @@
           "serial": 15,
           "name_ur": "مدینہ مسجد",
           "name_en": "Madina Masjid",
-          "fajr": "05:45",
+          "fajr": "05:50",
           "zuhr": "13:15",
           "asr": "17:15",
           "isha": "20:15",
