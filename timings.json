@@ -1,8 +1,8 @@
 {
   "sample": false,
   "unverified": false,
-  "source": "BJNT board 2026-09-27 — 12 cell(s) changed; read with gemini_changes.py from the messages of 2026-09-27; 7 message+photo agreed, 5 confirmed by hand; re-read 2026-09-27 in full (Gemini on zoomed strips, every row hand-verified against the photo; rows 49-60 read by hand): 103 stale cell(s) corrected",
-  "board_date": "2026-09-27",
+  "source": "BJNT board 2026-09-29 — 18 cell(s) changed; read with gemini_changes.py from the messages of 2026-09-28, 2026-09-29; 13 message+photo agreed, 5 confirmed by hand",
+  "board_date": "2026-09-29",
   "hijri": "3 Rabi ul Awwal 1448",
   "method": {
     "calc": "Karachi",
@@ -14,12 +14,12 @@
   },
   "header": {
     "subh_sadiq": "05:07",
-    "tulu": "06:22",
-    "zawal": "12:23",
-    "zuhr": "12:28",
-    "asr": "16:43",
-    "ghurub": "18:23",
-    "isha": "19:39"
+    "tulu": "06:23",
+    "zawal": "12:22",
+    "zuhr": "12:27",
+    "asr": "16:41",
+    "ghurub": "18:21",
+    "isha": "19:37"
   },
   "areas": [
     {
@@ -173,7 +173,7 @@
           "fajr": "05:50",
           "zuhr": "13:30",
           "asr": "17:15",
-          "isha": "20:00",
+          "isha": "20:15",
           "jumma": "13:30",
           "verified": "2026-09-13",
           "lat": 24.88784,
@@ -257,7 +257,7 @@
           "fajr": "05:55",
           "zuhr": "13:30",
           "asr": "17:15",
-          "isha": "20:15",
+          "isha": "20:00",
           "jumma": "14:00",
           "verified": "2026-09-13"
         },
@@ -267,7 +267,7 @@
           "name_en": "Dolmen Mall Musalla",
           "fajr": null,
           "zuhr": "13:30",
-          "asr": "17:15",
+          "asr": "17:00",
           "isha": "20:00",
           "jumma": null,
           "verified": "2026-09-13",
@@ -466,8 +466,8 @@
           "name_en": "Najm Masjid",
           "fajr": "05:50",
           "zuhr": "13:15",
-          "asr": "17:15",
-          "isha": "20:15",
+          "asr": "17:00",
+          "isha": "20:00",
           "jumma": "13:30",
           "verified": "2026-09-13",
           "address_en": "Delhi Mercantile Co-Operative Housing Society Tariq Road Karachi PECHS",
@@ -487,7 +487,7 @@
           "fajr": "05:50",
           "zuhr": "13:15",
           "asr": "17:15",
-          "isha": "20:15",
+          "isha": "20:00",
           "jumma": "13:15",
           "verified": "2026-09-13",
           "lat": 24.87063,
@@ -499,7 +499,7 @@
           "name_en": "Taiba Masjid",
           "fajr": "05:50",
           "zuhr": "13:30",
-          "asr": "17:15",
+          "asr": "17:00",
           "isha": "20:00",
           "jumma": "14:00",
           "verified": "2026-09-13"
@@ -511,7 +511,7 @@
           "fajr": "05:50",
           "zuhr": "13:45",
           "asr": "17:15",
-          "isha": "20:15",
+          "isha": "20:00",
           "jumma": "13:45",
           "verified": "2026-09-13",
           "lat": 24.86687,
@@ -641,7 +641,7 @@
           "name_en": "Masjid Muhammad bin Qasim",
           "fajr": "05:55",
           "zuhr": "13:15",
-          "asr": "17:15",
+          "asr": "17:00",
           "isha": "20:00",
           "jumma": "13:30",
           "verified": "2026-09-13",
@@ -671,9 +671,9 @@
           "serial": 46,
           "name_ur": "زرینہ مسجد",
           "name_en": "Zarina Masjid",
-          "fajr": "05:55",
+          "fajr": "06:00",
           "zuhr": "13:15",
-          "asr": "17:15",
+          "asr": "17:00",
           "isha": "20:00",
           "jumma": "13:15",
           "verified": "2026-09-13"
@@ -724,7 +724,7 @@
           "name_en": "Jamia Masjid Tauheed",
           "fajr": "05:50",
           "zuhr": "13:30",
-          "asr": "17:15",
+          "asr": "17:00",
           "isha": "20:15",
           "jumma": "14:00",
           "verified": "2026-09-13"
@@ -800,8 +800,8 @@
           "name_en": "Jamia Masjid Usman bin Affan",
           "fajr": "05:45",
           "zuhr": "13:45",
-          "asr": "17:15",
-          "isha": "20:15",
+          "asr": "17:00",
+          "isha": "20:00",
           "jumma": "15:00",
           "verified": "2026-09-13"
         },
@@ -842,7 +842,7 @@
           "name_en": "Jamia Masjid Rehmania",
           "fajr": "05:55",
           "zuhr": "13:30",
-          "asr": "17:15",
+          "asr": "17:00",
           "isha": "20:15",
           "jumma": "13:30",
           "verified": "2026-09-13"
@@ -970,7 +970,7 @@
           "fajr": "05:50",
           "zuhr": "13:15",
           "asr": "17:15",
-          "isha": "20:30",
+          "isha": "20:15",
           "jumma": "13:45",
           "verified": "2026-09-13",
           "lat": 24.90663,
@@ -988,7 +988,7 @@
           "name_en": "Jamia Masjid Bait-us-Salam",
           "fajr": "05:55",
           "zuhr": "13:30",
-          "asr": "17:15",
+          "asr": "17:00",
           "isha": "20:00",
           "jumma": "13:30",
           "verified": "2026-09-13",
@@ -1007,12 +1007,12 @@
           "fajr": "05:50",
           "zuhr": "13:30",
           "asr": "17:15",
-          "isha": "20:30",
+          "isha": "20:15",
           "jumma": "13:45",
           "verified": "2026-09-13"
         }
       ]
     }
   ],
-  "revision": "2026-09-27T16:19:19+00:00"
+  "revision": "2026-09-29T19:21:39+00:00"
 }
